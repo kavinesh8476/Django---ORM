@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 ### Hostel information entity diagram
-![hostel](Hostel2.png)
+![hostel](hostel2.png)
 
 ## DESIGN STEPS
 
